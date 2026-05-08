@@ -2,7 +2,7 @@
   "name": "conventional-changelog",
   "type": "module",
   "private": true,
-  "version": "0.0.0",
+  "version": "7.2.0-lineaje-01",
   "description": "Generate a changelog from git metadata.",
   "author": {
     "name": "Steve Mao",
@@ -10,10 +10,16 @@
     "url": "https://github.com/stevemao"
   },
   "license": "ISC",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "homepage": "https://github.com/conventional-changelog/conventional-changelog#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/conventional-changelog/conventional-changelog.git"
+    "url": "https://github.com/lineaje-labs-gos/conventional-changelog-conventional-changelog"
   },
   "bugs": "https://github.com/conventional-changelog/conventional-changelog/issues",
   "keywords": [
